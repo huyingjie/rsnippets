@@ -14,6 +14,15 @@
 </div>
 
 
+* [Web Development](http://rsnippets.com/front-end/)
+	* HTML
+	* CSS
+	* JavaScript
+	* jQuery
+* [Gulp](http://rsnippets.com/gulp)
+* [R](http://rsnippets.com/r)
+
+
 ## <a id="Help-Wanted"></a>Help Wanted
 Ways you can help
 
