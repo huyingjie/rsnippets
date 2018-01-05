@@ -101,6 +101,12 @@ weight = 2
 identifier = "discord"
 url = "https://discord.gg/yRWHfg"
 
+[[menu.main]]
+name = "GitHub"
+weight = 3
+identifier = "github"
+url = "https://github.com/huyingjie/rsnippets"
+
 [blackfriday]
 hrefTargetBlank = true
 
