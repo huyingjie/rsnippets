@@ -8,4 +8,4 @@ install:
   - rm -rf public || exit 0
 # Build the website
 script:
-  - binaries/hugo --theme=minimo
+  - hugo
