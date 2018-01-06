@@ -1,25 +1,11 @@
-language: go
-sudo: required
-dist: precise
-go:
-  - 1.8.5
-  - 1.9.2
-  - tip
-os:
-  - linux
-  - osx
-matrix:
-  allow_failures:
-    - go: tip
-  fast_finish: true
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
+# Clean and don't fail
 install:
-  - go get github.com/magefile/mage
-  - mage vendor
+  - rm -rf public || exit 0
+# Build the website
 script:
-  - mage hugoRace
-  - mage -v check
-  - ./hugo -s docs/
-  - ./hugo --renderToMemory -s docs/
-before_install:
-  # gem install must be run with sudo on OSX
-  - sudo gem install asciidoctor | gem install asciidoctor.
+  - binaries/hugo --theme=minimo
