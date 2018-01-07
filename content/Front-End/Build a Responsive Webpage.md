@@ -21,10 +21,9 @@ This is an Anonymous project.
 
 Use whichever libraries you need. Give it your own personal style.
 
-* [ ] I can access all of the portfolio webpage's content just by scrolling.
-* [ ] I can click different buttons that will take me to the portfolio creator's different social media pages.
-* [ ] I can see thumbnail images of different projects the portfolio creator has built (if you haven't built any websites before, use placeholders.)
-* [ ] I navigate to different sections of the webpage by clicking buttons in the navigation.
+* [ ] The webpage automatically realigns whenever the browser size is changed.
+* [ ] The grids allign properly when display size is changed.
+* [ ] The images are flexible.
 
 Optional:
 
@@ -34,9 +33,9 @@ Optional:
 ## Additional Resources
 
 **Check these Website links for help**:
-	* [https://www.w3schools.com/css/css_rwd_intro.asp](https://www.w3schools.com/css/css_rwd_intro.asp).
-	* [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
-	* For making a responsive Bootstrap page: [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
+	*  [https://www.w3schools.com/css/css_rwd_intro.asp](https://www.w3schools.com/css/css_rwd_intro.asp).
+	*  [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
+	*  For making a responsive Bootstrap page: [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
  
 **Note**: CodePen.io overrides the `Window.open()` function, so if you want to open windows using jQuery, you will need to target invisible anchor elements like this one: `<a target='_blank'>`.
 
