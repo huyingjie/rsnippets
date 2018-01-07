@@ -3,7 +3,7 @@ title: "Build a Tribute Page"
 date: 2018-01-05
 ---
 
-This is project is from [FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-tribute-page).
+This project is from [FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-tribute-page).
 
 ## Prerequisite
 
