@@ -33,9 +33,9 @@ Optional:
 ## Additional Resources
 
 **Check these Website links for help**:
-	*  [https://www.w3schools.com/css/css_rwd_intro.asp](https://www.w3schools.com/css/css_rwd_intro.asp).
-	*  [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
-	*  For making a responsive Bootstrap page: [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
+*  [https://www.w3schools.com/css/css_rwd_intro.asp](https://www.w3schools.com/css/css_rwd_intro.asp).
+*  [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
+*  For making a responsive Bootstrap page: [http://www.entheosweb.com/website_design/responsive_web_design.asp](http://www.entheosweb.com/website_design/responsive_web_design.asp).
  
 **Note**: CodePen.io overrides the `Window.open()` function, so if you want to open windows using jQuery, you will need to target invisible anchor elements like this one: `<a target='_blank'>`.
 
