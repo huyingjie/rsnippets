@@ -4,7 +4,7 @@ date: 2018-01-05
 slug: build-a-personal-portfolio-webpage
 ---
 
-This is project is from [FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage).
+This project is from [FreeCodeCamp](https://www.freecodecamp.org/challenges/build-a-personal-portfolio-webpage).
 
 ## Prerequisite
 
