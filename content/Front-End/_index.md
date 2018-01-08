@@ -6,3 +6,4 @@ title: "Front-End Web Developmenet Projects for Beginners"
 
 * [Build a Tribute Page](build-a-tribute-page/)
 * [Build a Personal Portfolio Webpage](build-a-personal-portfolio-webpage/)
+* [Build a Responsive Landing Page](build-a-responsive-landing-page/)
