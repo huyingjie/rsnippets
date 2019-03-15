@@ -43,3 +43,4 @@ Remember to ask questions in [Discord](https://discord.gg/yRWHfg) if you get stu
 ## Additional Resources
 
 * [Using JavaScript and forms](https://www.javaworld.com/article/2077176/scripting-jvm-languages/using-javascript-and-forms.html)
+* [Bring Your Forms Up to Date With CSS3 and HTML5 Validation](https://webdesign.tutsplus.com/tutorials/bring-your-forms-up-to-date-with-css3-and-html5-validation--webdesign-4738)
